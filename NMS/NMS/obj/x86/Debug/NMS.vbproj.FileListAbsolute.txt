@@ -1,0 +1,30 @@
+D:\Software Development\NMS\NMS\NMS\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Software Development\NMS\NMS\NMS\obj\x86\Debug\NMS.Resources.resources
+D:\Software Development\NMS\NMS\NMS\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Software Development\NMS\NMS\NMS\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Software Development\NMS\NMS\NMS\obj\x86\Debug\NMS.NMS.resources
+D:\Software Development\NMS\NMS\NMS\obj\x86\Debug\NMS.frmstockentry.resources
+D:\Software Development\NMS\NMS\NMS\obj\x86\Debug\NMS.frmmanage.resources
+D:\Software Development\NMS\NMS\NMS\obj\x86\Debug\NMS.usrreport.resources
+D:\Software Development\NMS\NMS\NMS\obj\x86\Debug\NMS.vbproj.ResolveComReference.cache
+D:\Software Development\NMS\pNMS\NMS\obj\x86\Debug\NMS.vbproj.ResolveComReference.cache
+D:\Software Development\NMS\pNMS\NMS\obj\x86\Debug\NMS.exe
+D:\Software Development\NMS\pNMS\NMS\obj\x86\Debug\NMS.xml
+D:\Software Development\NMS\pNMS\NMS\obj\x86\Debug\NMS.pdb
+D:\Software Development\NMS\pNMS\NMS\bin\Debug\NMS.exe
+D:\Software Development\NMS\pNMS\NMS\bin\Debug\NMS.pdb
+D:\Software Development\NMS\pNMS\NMS\bin\Debug\NMS.xml
+D:\Software Development\NMS\pNMS\NMS\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Software Development\NMS\pNMS\NMS\obj\x86\Debug\NMS.frmmanage.resources
+D:\Software Development\NMS\pNMS\NMS\obj\x86\Debug\NMS.usrreport.resources
+D:\Software Development\NMS\pNMS\NMS\obj\x86\Debug\NMS.frmstockentry.resources
+D:\Software Development\NMS\pNMS\NMS\obj\x86\Debug\NMS.Resources.resources
+D:\Software Development\NMS\pNMS\NMS\obj\x86\Debug\NMS.NMS.resources
+D:\Software Development\NMS\pNMS\NMS\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Software Development\NMS\pNMS\NMS\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Software Development\NMS\NMS\NMS\bin\Debug\NMS 1.0.exe
+D:\Software Development\NMS\NMS\NMS\bin\Debug\NMS 1.0.pdb
+D:\Software Development\NMS\NMS\NMS\bin\Debug\NMS 1.0.xml
+D:\Software Development\NMS\NMS\NMS\obj\x86\Debug\NMS 1.0.exe
+D:\Software Development\NMS\NMS\NMS\obj\x86\Debug\NMS 1.0.xml
+D:\Software Development\NMS\NMS\NMS\obj\x86\Debug\NMS 1.0.pdb

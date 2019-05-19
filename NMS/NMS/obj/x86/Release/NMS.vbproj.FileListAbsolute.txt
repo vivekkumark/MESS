@@ -1,0 +1,15 @@
+D:\Software Development\NMS\NMS\NMS\bin\Release\NMS.exe
+D:\Software Development\NMS\NMS\NMS\bin\Release\NMS.pdb
+D:\Software Development\NMS\NMS\NMS\bin\Release\NMS.xml
+D:\Software Development\NMS\NMS\NMS\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Software Development\NMS\NMS\NMS\obj\x86\Release\NMS.frmmanage.resources
+D:\Software Development\NMS\NMS\NMS\obj\x86\Release\NMS.frmstockentry.resources
+D:\Software Development\NMS\NMS\NMS\obj\x86\Release\NMS.Resources.resources
+D:\Software Development\NMS\NMS\NMS\obj\x86\Release\NMS.NMS.resources
+D:\Software Development\NMS\NMS\NMS\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Software Development\NMS\NMS\NMS\obj\x86\Release\GenerateResource.write.1.tlog
+D:\Software Development\NMS\NMS\NMS\obj\x86\Release\NMS.exe
+D:\Software Development\NMS\NMS\NMS\obj\x86\Release\NMS.xml
+D:\Software Development\NMS\NMS\NMS\obj\x86\Release\NMS.pdb
+D:\Software Development\NMS\NMS\NMS\obj\x86\Release\NMS.vbproj.ResolveComReference.cache
+D:\Software Development\NMS\NMS\NMS\obj\x86\Release\NMS.usrreport.resources
